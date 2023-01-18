@@ -1,0 +1,2 @@
+Based on q3_music_top_result.txt, the process that aids in playing music on the emulator 
+includes mediacodec, audioserver and a Youtube Music process.
